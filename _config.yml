@@ -1,10 +1,10 @@
 # site settings
-title: Rosemary Wang
+title: Lewis Pour
 subtitle: ''
-description: she/her. infra engineer. cloud explorer.
+description: he/him. DevOps engineer. cloud explorer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author: Rosemary Wang
+author: Lewis Pour
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -13,14 +13,14 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/joatmon08
+github_url: https://github.com/lewispour
 gitlab_url:
 googleplus_url:
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/rosemarywang/
+linkedin_url: https://www.linkedin.com/in/lewis-pour/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/joatmon08
+twitter_url: https://twitter.com/lewispour
 
 # build settings
 markdown: kramdown
