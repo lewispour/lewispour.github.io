@@ -15,24 +15,6 @@ nav-menu: true
             </header>
             <div class="row">
                 <div class="inner">
-                    <h3>Books</h3>
-                    <h4>Infrastructure as Code, Patterns & Practices</h4>
-                    <a href="http://mng.bz/WxW1" target="_blank">
-                    <img src="assets/images/book.jpg" alt="Infrastructure as Code, Patterns & Practices">
-                    </a>
-                </div>
-            </div>
-            <div class="row">
-                <div class="inner">
-                    <h3>Blog</h3>
-                    <ul class="icons">
-                        <li><a href="https://medium.com/@joatmon08" target="_blank" class="icon alt fa-medium"><span
-                                    class="label">Medium</span></a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="row">
-                <div class="inner">
                     <h3>Articles</h3>
                     <p>Below are additional articles published outside of my personal blog.</p>
                     <ul class="unordered">
