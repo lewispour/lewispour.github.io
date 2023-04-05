@@ -1,4 +1,4 @@
-# Rosemary Wang - Personal Website
+# Lewis Pour - Personal Website
 
 # Credits
 
