@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Rosemary Wang'
+landing-title: 'Lewis Pour'
 description: null
 image: null
 author: null
