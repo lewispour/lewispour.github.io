@@ -16,11 +16,7 @@
 		Respond.js (j.mp/respondjs)
 		Skel (skel.io)
 	Repository: [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
-	Uses the [Forty Jekyll
-Theme](https://github.com/andrewbanchich/forty-jekyll-theme) by andrewbanchich
+
+Theme(https://github.com/andrewbanchich/forty-jekyll-theme) by andrewbanchich
 
 ```
-
-Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
-Uses the [Forty Jekyll
-Theme](https://github.com/andrewbanchich/forty-jekyll-theme) by andrewbanchich
