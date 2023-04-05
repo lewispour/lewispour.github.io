@@ -27,10 +27,10 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
-						<td>05.23.2023 / 15:00 CST</td>
-						<td>GOTO Chicago</td>
-						<td>Catching Commits to Secure Infrastructure as Code</td>
-						<td><a href="https://gotochgo.com/2023/sessions/2585/catching-commits-to-secure-infrastructure-as-code">Convene, Chicago</a></td>
+						<td>Anytime / 00:00 GMT</td>
+						<td>Invite Lewis to Talk?</td>
+						<td>Lewis talks about Devops Technologies!</td>
+						<td><a href="">Remote, or In-Person </a></td>
 					</tr>
 				</tbody>
 			</table>
