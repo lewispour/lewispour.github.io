@@ -30,7 +30,7 @@ nav-menu: true
 						<td>Anytime / 00:00 GMT</td>
 						<td>Invite Lewis to Talk?</td>
 						<td>Lewis talks about Devops Technologies!</td>
-						<td><a href="">Remote, or In-Person </a></td>
+						<td><a href="https://www.linkedin.com/in/lewis-pour/">Contact Me</a></td>
 					</tr>
 				</tbody>
 			</table>
