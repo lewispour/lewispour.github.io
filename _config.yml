@@ -1,0 +1,29 @@
+# site settings
+title: Lewis Pour
+subtitle: ''
+description: he/him. DevOps engineer. cloud explorer.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: Lewis Pour
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/lewispour
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url: https://www.linkedin.com/in/lewis-pour/
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/lewispour
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
